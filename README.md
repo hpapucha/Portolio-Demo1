@@ -1,3 +1,3 @@
 # portfolio
 
-Test repository for a project.
+Demo repository for a project.
