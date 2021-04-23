@@ -1,3 +1,3 @@
 # portfolio
 
-Demo repository for a project.
+Quick demo repository for a project.
